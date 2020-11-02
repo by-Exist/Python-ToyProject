@@ -13,7 +13,9 @@
 ### 기간
 * 2020.08 (일주일 소요)
 ### 부제
-* [공공기관 Open API Json 데이터 다운로더 (깃허브)](https://github.com/by-Exist/Public_Data_Json_Downloader)
+* 공공기관 Open API Json 데이터 다운로더
+### 링크
+* [Github](https://github.com/by-Exist/Public_Data_Json_Downloader)
 ### 사진
 * ![image](https://github.com/by-Exist/school_projects/blob/master/images/barcode_scanner/app_image.jpg?raw=true)
 ### 담당 파트
@@ -29,6 +31,8 @@
 ## [Cat Humer School]
 ### 기간
 * 2020.07 (한달 소요)
+### 링크
+* [Github](https://github.com/bigmacaron/cat_humor_school)
 ### 부제
 * flask를 활용하여 제작된 커뮤니티 사이트.
 ### 사진
