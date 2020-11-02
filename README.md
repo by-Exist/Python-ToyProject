@@ -3,9 +3,9 @@
 ---
 
 ## 목차
-* [Barcode Scanner](##Barcode-Scanner)
-* [Cat Humer School](##Cat-Humer-School)
-* [Password Maker](##Password-Maker)
+* [Barcode Scanner](#Barcode-Scanner)
+* [Cat Humer School](#Cat-Humer-School)
+* [Password Maker](#Password-Maker)
 
 ---
 
