@@ -4,8 +4,8 @@
 
 ## 목차
 * [Barcode Scanner](##Barcode-Scanner)
-* [Cat Humer School (2020.08)](##Cat-Humer-School)
-* [Password Maker (2020.06)](##Password-Maker)
+* [Cat Humer School](##Cat-Humer-School)
+* [Password Maker](##Password-Maker)
 
 ---
 
@@ -35,8 +35,9 @@
 * ![image](https://github.com/by-Exist/Python-ToyProject/blob/master/images/cat_humer_school/index_page.jpg?raw=true)
 ### 설명
 * 관리자 계정으로 로그인할 시 크롤링 페이지 연결
-* 커뮤니티를 선택하여 여러 게시물 선택 및 다운로드
-* 다운로드 된 데이터가 인덱스 페이지에서 볼 수 있도록 구성
+* 여러 커뮤니티중 하나를 선택하면 해당 커뮤니티의 게시물 목록 페이지 구성
+* 원하는 게시물을 선택하여 자동 크롤링
+* 다운로드 된 게시물은 인덱스 페이지에서 보여질 수 있도록 구성
 ### 담당 파트
 * 커뮤니티 사이트 포스트 크롤링 모듈 설계
 * DAO 설계
@@ -62,5 +63,4 @@
 * 레이아웃을 제외한 전반.
 ### 후기
 * 처음으로 진행한 협업 프로젝트.
-* SQLite를 알고 있었다면 효율적으로 비밀번호를 저장하고 읽어오는 과정을 설계할 수 있었겠지만 단순하게 txt 파일에 비밀번호와 배치 순서를 기록하도록 설계하였던 점이 아쉽다.
-* 비밀번호를 어떻게 저장해야 하고 그 데이터를 긁어올 것인가 하는 과정을 설계하는 과정에서 즐거움을 느꼈다.
+* SQLite를 알고 있었다면 효율적으로 비밀번호를 저장하고 읽어오는 과정을 설계할 수 있었겠지만 단순하게 txt 파일에 비밀번호와 배치 순서를 기록하도록 설계하였던 점이 아쉬움.
