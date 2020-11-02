@@ -1,17 +1,21 @@
 # 국비지원교육 과정 프로젝트 목록
 
+---
+
 ## 목차
 * [Barcode Scanner](##Barcode-Scanner)
 * [Cat Humer School (2020.08)](##Cat-Humer-School)
 * [Password Maker (2020.06)](##Password-Maker)
 
-## Barcode Scanner
+---
+
+## [Barcode Scanner]
 ### 기간
 * 2020.08 (일주일 소요)
 ### 부제
 * [공공기관 Open API Json 데이터 다운로더 (깃허브)](https://github.com/by-Exist/Public_Data_Json_Downloader)
 ### 사진
-* ![image]()
+* ![image](https://github.com/by-Exist/Python-ToyProject/blob/master/images/barcode_scanner/app_image.jpg?raw=true)
 ### 담당 파트
 * REST API로 json으로 제공되는 제품 데이터 80만개를 모두 DB에 저장해야 하는 조건
 * json과 request모듈을 활용하여 공공기관 OPEN API로 제공되는 데이터를 pickle로 직렬화하는 프로그램 제작
@@ -20,13 +24,15 @@
 * Python의 기본 라이브러리를 학습하는 것이 추후 얼마나 큰 도움이 되는가를 깨달을 수 있었던 계기.
 * 문제를 분석, 흐름 정의, 코드 설계, 디버깅하는 과정에서 즐거움을 느낄 수 있었다.
 
-## Cat Humer School
+---
+
+## [Cat Humer School]
 ### 기간
 * 2020.07 (한달 소요)
 ### 부제
 * flask를 활용하여 제작된 커뮤니티 사이트.
 ### 사진
-* ![image]()
+* ![image](https://github.com/by-Exist/Python-ToyProject/blob/master/images/cat_humer_school/index_page.jpg?raw=true)
 ### 설명
 * 관리자 계정으로 로그인할 시 크롤링 페이지 연결
 * 커뮤니티를 선택하여 여러 게시물 선택 및 다운로드
@@ -41,13 +47,15 @@
 * 팀원간의 마찰이 발생할 때 어떻게 처리해야 하는가에 대하여 다시 생각해보게 된 계기.
 * 각 페이지마다 다른 인코딩을 사용하고 있었고, 인코딩에 대한 지식이 있었다면 하는 아쉬움이 남는다.
 
-## Password Maker
+---
+
+## [Password Maker]
 ### 기간
 * 2020.06 (1주 소요)
 ### 부제
 * tkinter를 활용하여 만든 비밀번호 생성 및 관리 GUI 프로그램.
 ### 사진
-* ![image]()
+* ![image](https://github.com/by-Exist/Python-ToyProject/blob/master/images/password_maker/password_maker.PNG?raw=true)
 ### 설명
 * 사용자가 원하는 비밀번호의 형식을 지정할 시 랜덤하게 비밀번호를 생성해주고, 해당 비밀번호를 최대 3개까지 저장 및 관리할 수 있도록 만들어진 프로그램.
 ### 담당 파트
