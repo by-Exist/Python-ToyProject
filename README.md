@@ -15,7 +15,7 @@
 ### 부제
 * [공공기관 Open API Json 데이터 다운로더 (깃허브)](https://github.com/by-Exist/Public_Data_Json_Downloader)
 ### 사진
-* ![image](https://github.com/by-Exist/Python-ToyProject/blob/master/images/barcode_scanner/app_image.jpg?raw=true)
+* ![image](https://github.com/by-Exist/school_projects/blob/master/images/barcode_scanner/app_image.jpg?raw=true)
 ### 담당 파트
 * REST API로 json으로 제공되는 제품 데이터 80만개를 모두 DB에 저장해야 하는 조건
 * json과 request모듈을 활용하여 공공기관 OPEN API로 제공되는 데이터를 pickle로 직렬화하는 프로그램 제작
@@ -32,7 +32,7 @@
 ### 부제
 * flask를 활용하여 제작된 커뮤니티 사이트.
 ### 사진
-* ![image](https://github.com/by-Exist/Python-ToyProject/blob/master/images/cat_humer_school/index_page.jpg?raw=true)
+* ![image](https://github.com/by-Exist/school_projects/blob/master/images/cat_humer_school/index_page.jpg?raw=true)
 ### 설명
 * 관리자 계정으로 로그인할 시 크롤링 페이지 연결
 * 여러 커뮤니티중 하나를 선택하면 해당 커뮤니티의 게시물 목록 페이지 구성
@@ -56,7 +56,7 @@
 ### 부제
 * tkinter를 활용하여 만든 비밀번호 생성 및 관리 GUI 프로그램.
 ### 사진
-* ![image](https://github.com/by-Exist/Python-ToyProject/blob/master/images/password_maker/password_maker.PNG?raw=true)
+* ![image](https://github.com/by-Exist/school_projects/blob/master/images/password_maker/password_maker.PNG?raw=true)
 ### 설명
 * 사용자가 원하는 비밀번호의 형식을 지정할 시 랜덤하게 비밀번호를 생성해주고, 해당 비밀번호를 최대 3개까지 저장 및 관리할 수 있도록 만들어진 프로그램.
 ### 담당 파트
